@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Java, C++ and penetration testing**
 - ⚡ Fun fact **I love gaming too ! Especially Minecraft and World of Warcraft**
-- 
 
 
 <h3 align="left">Languages and Tools:</h3>
