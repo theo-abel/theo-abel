@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Théo</h1>
 <h3 align="center">A linux and cybersecurity enthusiast</h3>
 
-- 🌱 I’m currently learning **Java, C++ and penetration testing**
+- 🌱 I’m currently learning **blue teaming and penetration testing**
 - ⚡ Fun fact **I love gaming too ! Especially Minecraft and World of Warcraft**
 
 
