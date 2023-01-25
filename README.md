@@ -1,6 +1,6 @@
 <h3 align="center">A Linux & FOSS enthusiast</h3>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cynikkk&" alt="cynikkk" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynikkk&" alt="cynikkk" />
 </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=cynikkk&label=Profile%20views&color=e0b310&style=flat-square" alt="cynikkk" />
