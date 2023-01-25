@@ -53,10 +53,6 @@
     </a>
 </p>
 
-<br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynikkk&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cynikkk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=gruvbox&locale=en" alt="cynikkk" /></p>
-
-
