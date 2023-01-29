@@ -53,6 +53,6 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynikkk&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cynikkk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true"" alt="cynikkk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=gruvbox&locale=en" alt="cynikkk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynikkk&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake" alt="cynikkk" /></p>
