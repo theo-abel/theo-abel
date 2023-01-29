@@ -2,9 +2,12 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynikkk&" alt="cynikkk" />
 </p>
-<p align="center">
+<div align="center">
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true")
+
+    ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynikkk&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake)
     <img src="https://komarev.com/ghpvc/?username=cynikkk&label=Profile%20views&color=e0b310&style=flat-square" alt="cynikkk" />
-</p>
+</div>
 
 - 👨‍💻 All of my projects are available [here](https://theoabel.com/projects)
 
@@ -53,6 +56,4 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true"" alt="cynikkk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynikkk&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake" alt="cynikkk" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=cynikkk&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
