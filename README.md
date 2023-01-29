@@ -1,12 +1,13 @@
-<h3 align="center">A Linux & FOSS enthusiast</h3>
+<div align="center">
+    <h3 >A Linux & FOSS enthusiast</h3>
+    <img src="https://komarev.com/ghpvc/?username=cynikkk&label=Profile%20views&color=e0b310&style=flat-square" alt="Profile views">
+</div>
 
 <div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cynikkk&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true")
 
-![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynikkk&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake)
-
-![Profile views](https://komarev.com/ghpvc/?username=cynikkk&label=Profile%20views&color=e0b310&style=flat-square)
+![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynikkk&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=makefile)
 
 </div>
 
@@ -55,8 +56,4 @@
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     </a>
-</p>
-
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=cynikkk&theme=nord&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D" alt="cynikkk" />
 </p>
