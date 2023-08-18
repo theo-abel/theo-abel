@@ -9,11 +9,9 @@
 ![Github langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=standard3&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=makefile)
 </div>
 
-- 👨‍💻 All of my projects are available [here](https://theoabel.com/projects)
+- 👨‍💻 All of my projects are available on Github
 
-- 📝 I regularly write [articles](https://theoabel.com)
-
-- 📄 Know about my [experiences](https://theoabel.com/resume)
+- 📝 I (try to) regularly write [articles](https://theoabel.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
